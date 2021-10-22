@@ -1,0 +1,160 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Machine Learning Resources</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="AllResources.css" />
+</head>
+<body>
+    <div class="row navbar">
+        <div class="col-sm">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#">ML Resources</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="index.html">Home </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">All Resources <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Tags
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">Programming Resources</a>
+                                <a class="dropdown-item" href="#">Mathematics Resources</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Add Resources</a>
+                        </li>
+                    </ul>
+                    <div class="my-2 my-lg-0">
+                        <!--<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">-->
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Log In</button>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+
+    <div class="row" style="margin-left: 50px;">
+        <div class="row">
+
+            <h3 style ="text-decoration:none; color: cornflowerblue;" class="HeaderText"><a href="http://cs229.stanford.edu/">CS 229: Machine Learning (Stanford)</a></h3>
+        </div>
+        <div class="row">
+            <h5 style="margin-left: 50px;" id="description">A course offered by Stanford where you can learn the mathematical concepts behind Machine Learning!</h5>
+        </div>
+        <div class="row">
+            <div class="col-sm">
+                <br />
+                <img id="img" style="margin-left: 50px; float: left;" src="ResourceImgs/CS229.png" />
+            </div>
+            <div class="col-sm">
+                <h3 class="HeaderText justify-content-center">Topics Discussed:</h3>
+                <ul>
+                    <li>Introduction to machine learning</li>
+                    <li>Statistical Pattern Recognition</li>
+                    <li>Supervised Learning</li>
+                    <li>Unsupervised Learning</li>
+                    <li>Reinforcement Learning</li>
+                </ul>
+            </div>
+            <di class="col-sm justify-content-center">
+                <div class="row">
+                    <h5 style="margin-left: 50px;" id="tags"><strong>Tags:</strong> "Mathematics", "Data preprocessing"</h5>
+                </div>
+        </div>
+    </div>
+
+    <br />
+    <br />
+    <br />
+
+    <script>
+        /*const posts = JSON.stringify({ table: "posts", limit: 3 });
+        string title = posts.title;
+        string description = posts.description;
+        string photo = posts.photo;
+
+        document.getElementById("Header").innerHTML = title;
+        document.getElementById("description").innerHTML = description;
+        document.getElementById("img").setAttribute("src") = photo;*/
+    </script>
+    </div>
+
+    <div class="row">
+        <table style="border: none; margin-left: 50px; margin-right: 50px;">
+            <tr>
+                <th>
+                    <h3 style ="text-decoration:none; color: cornflowerblue;" class="HeaderText"><a href="https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python">CS 50: Introduction to Artificial Intelligence with Python (Harvard)</a></h3>
+                </th>
+            </tr>
+            <tr>
+                <th colspan="1"><img id="img" class="justify-content-center" src="ResourceImgs/CS50.png" /></th>
+                <th colspan="1"><h5 style="margin-left: 50px;" id="description">CS50 is a public Harvard-based <br />course taught by David Malan, <br />and it is the largest course in Harvard and on EdX, viewed by more than 1 million people. </h5></th>
+                <th colspan="3">
+                    <h3 class="HeaderText ">Topics Discussed:</h3>
+                    <ul>
+                        <li>Artificial Intelligence</li>
+                        <li>Python Basics</li>
+                        <li>Tensorflow</li>
+                        <li>Neural Networks</li>
+                    </ul>
+                </th>
+            </tr>
+            <tr>
+
+                <th>
+                    <h5 id="tags"><strong>Tags:</strong> "Computer Science", "Data preprocessing"</h5>
+                </th>
+            </tr>
+        </table>
+    </div>
+
+    <br />
+    <br />
+    <br />
+
+    <div class="row">
+        <table style="border: none; margin-left: 50px; margin-right: 50px;">
+            <tr>
+                <th> 
+                    <h3 class="HeaderText" style ="text-decoration:none; color: cornflowerblue;"><a href="https://developers.google.com/machine-learning/crash-course">Google's Machine Learning Crash Course</a></h3>
+                </th>
+            </tr>
+            <tr>
+                <th colspan="1"><img id="img" class="justify-content-center" src="ResourceImgs/GoogleDev.png" /></th>
+                <th colspan="1"><h5 style="margin-left: 50px;" id="description">A public Google Developer's course to teach people the basics of Machine Learning with TensorFlow </h5></th>
+                <th colspan="3">
+                    <h3 class="HeaderText ">Topics Discussed:</h3>
+                    <ul>
+                        <li>Supervised Learning</li>
+                        <li>Python Basics</li>
+                        <li>Tensorflow</li>
+                        <li>Keras and Dense</li>
+                    </ul>
+                </th>
+            </tr>
+            <tr>
+
+                <th>
+                    <h5 id="tags"><strong>Tags:</strong> "Computer Science", "Data preprocessing"</h5>
+                </th>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

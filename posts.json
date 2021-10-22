@@ -1,0 +1,139 @@
+{
+  {
+    "title": "CS 229: Machine Learning",
+    "description": "A course offered by Stanford where you can learn the mathematical concepts behind Machine Learning!",
+    "photo": "ResourceImgs/CS229.png",
+    "date_shared": "9/3/21",
+    "link": "http://cs229.stanford.edu/"
+    /*"authors": [ "Stanford" ]
+    "tags": [
+      "Mathematics",
+      "Data Preprocessing",
+      "Online Courses",
+      "Stanford"
+    ]*/
+  },
+  {
+    "title": "The Mathematical Engineering of Deep Learning",
+    "description": "A course offered by Stanford where you can learn the mathematical concepts behind Machine Learning!",
+    "photo": "ResourceImgs/deeplearningmath.png",
+    "date_shared": "9/21/21",
+    "link": "https://deeplearningmath.org/"
+    /*"authors": [ "Benoit Liquet", "Sarat Moka", "Yoni Nazarathy" ]
+    "tags": [
+      "Mathematics",
+      "Data Science",
+      "Textbooks",
+      "Linear Algebra"
+    ]*/
+  },
+  {
+    "title": "Google's Machine Learning Crash Course",
+    "description": "A public Google Developer's course to teach people the basics of Machine Learning with TensorFlow",
+    "photo": "ResourceImgs/deeplearningmath.png",
+    "date_shared": "9/3/21",
+    "link": "https://deeplearningmath.org/"
+    /*"authors": [ "Google" ],
+    "tags": [
+      "Mathematics",
+      "Data Science",
+      "Textbooks",
+      "Linear Algebra"
+    ]*/
+  },
+  {
+    "title": "Introduction to Machine Learning",
+    "description": "A summary of the history and basic topics in Machine Learning",
+    "photo": "ResourceImgs/cambridge.png",
+    "date_shared": "9/3/21",
+    "link": "https://alex.smola.org/drafts/thebook.pdf"
+    /*"authors": [ "Alex Smola", "S.V.N. Vishwanathan" ]
+    "tags": [
+      "Mathematics",
+      "Textbooks"
+    ]*/
+  },
+  {
+    "title": "Gradient Descent Visualization",
+    "description": "A github repository that allows you to visualize how gradient descent and optimization works.",
+    "photo": "ResourceImgs/github.png",
+    "date_shared": "9/3/21",
+    "link": "https://github.com/lilipads/gradient_descent_viz"
+    /*"authors": [ "lilipads" ]
+    "tags": [
+      "Mathematics",
+      "Textbooks",
+      "Gradient Descent"
+    ]*/
+  },
+  {
+    "title": "Gradient Descent Visualization",
+    "description": "A github repository that allows you to visualize how gradient descent and optimization works.",
+    "photo": "ResourceImgs/github.png",
+    "date_shared": "9/3/21",
+    "link": "https://github.com/lilipads/gradient_descent_viz"
+    /*"authors": [ "lilipads" ]
+    "tags": [
+      "Gradient Descent",
+      "Deep Learning",
+      "Github",
+      "Optimization"
+    ]*/
+  },
+  {
+    "title": "Understanding Machine Learning",
+    "description": "A textbook that gives an in-depth understanding of Machine Learning, from theory to algorithms.",
+    "photo": "",
+    "date_shared": "9/3/21",
+    "link": "https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132"
+    /*"authors": [ "Shai Shalev-Shwartz", "Shai Ben-David" ]
+    "tags": [
+      "Algorithms",
+      "Deep Learning",
+      "Textbooks",
+      "Probability"
+    ]*/
+  },
+  {
+    "title": "Understanding Machine Learning",
+    "description": "A textbook that gives an in-depth understanding of Machine Learning, from theory to algorithms.",
+    "photo": "",
+    "date_shared": "9/3/21",
+    "link": "https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132"
+    /*"authors": [ "Shai Shalev-Shwartz", "Shai Ben-David" ]
+    "tags": [
+      "Algorithms",
+      "Deep Learning",
+      "Textbooks",
+      "Probability"
+    ]*/
+  },
+  {
+    "title": "Understanding Machine Learning",
+    "description": "A textbook that gives an in-depth understanding of Machine Learning, from theory to algorithms.",
+    "photo": "",
+    "date_shared": "9/3/21",
+    "link": "https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132"
+    /*"authors": [ "Shai Shalev-Shwartz", "Shai Ben-David" ]
+    "tags": [
+      "Algorithms",
+      "Deep Learning",
+      "Textbooks",
+      "Probability"
+    ]*/
+  },
+  {
+    "title": "An Introduction to Statistical Learning",
+    "description": "An Introduction to Statistical Learning provides a broad and less technical treatment of key topics in statistical learning. Each chapter includes an R lab.",
+    "photo": "",
+    "date_shared": "9/3/21",
+    "link": "https://www.statlearning.com/"
+    /*"authors": [ "Gareth James", "Daniela Witten", "Trevor Hastie", "Rob Tibshirani" ]
+    "tags": [
+      "Statistics",
+      "Data Preprocessing",
+      "Textbooks",
+      "R"
+    ]*/
+  }
+}

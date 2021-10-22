@@ -1,0 +1,62 @@
+﻿.navbar-col {
+    background-color: #C0C0C0;
+}
+body {
+    background-color: #ffffff;
+    background-image: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
+}
+
+.main-screen {
+
+}
+
+.HeaderText {
+    font-family: "Simplifica";
+    margin-top: 20%;
+    font-size: 50pt;
+}
+.SmallHeaderText {
+    font-family: "Simplifica";
+    margin-top: 20%;
+    font-size: 25pt;
+}
+.Subtext {
+    font-size: 15pt;
+}
+
+@font-face {
+    font-family: "Simplifica";
+    src: url('Fonts/Simplifica-Typeface.ttf');
+}
+
+
+#table {
+    margin: 0 auto;
+    font-size: large;
+    width: 95%;
+    border: none;
+}
+
+h1 {
+    text-align: center;
+    color: #006600;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', ' Calibri', 'Trebuchet MS', 'sans-serif';
+}
+
+td {
+    background-color: #E4F5D4;
+    border: 1px solid black;
+}
+
+th,
+td {
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    font-weight: lighter;
+}
