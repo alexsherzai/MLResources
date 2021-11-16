@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MLResources",
+    "\\MLResources\\data",
+    "\\MLResources\\static"
   ],
-  "SelectedNode": "\\index.css",
+  "SelectedNode": "\\MLResources",
   "PreviewInSolutionExplorer": false
 }
